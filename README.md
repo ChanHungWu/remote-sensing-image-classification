@@ -11,7 +11,7 @@ Computer vision project comparing traditional machine learning and deep learning
 
 ### Dataset Samples
 
-![Dataset samples](images/Dataset samples.png)
+[Dataset samples](images/Dataset samples.png)
 
 ## Results on the Original Dataset
 
