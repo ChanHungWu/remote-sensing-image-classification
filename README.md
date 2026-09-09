@@ -11,7 +11,7 @@ Computer vision project comparing traditional machine learning and deep learning
 
 ### Dataset Samples
 
-[Dataset samples](images/Dataset samples.png)
+![Dataset samples](images/Dataset%20samples.png)
 
 ## Results on the Original Dataset
 
@@ -26,7 +26,7 @@ EfficientNet achieved the best performance on the original dataset, while both d
 
 ### EfficientNet Confusion Matrix
 
-![EfficientNet confusion matrix](images/efficientnet_confusion_matrix.jpg)
+![EfficientNet confusion matrix](images/efficientnet_confusion_matrix.png)
 
 ## Data Processing Experiment
 
