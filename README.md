@@ -40,4 +40,4 @@ The processed dataset produced higher scores, but further analysis suggested tha
 
 ---
 
-*UNSW COMP9517 Computer Vision group project.*
+* Computer Vision project.*
