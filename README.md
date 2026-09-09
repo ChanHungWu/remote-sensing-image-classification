@@ -9,6 +9,10 @@ Computer vision project comparing traditional machine learning and deep learning
 - **Models compared:** SIFT + KNN, SIFT + SVM, ResNet-18, EfficientNet
 - **Evaluation:** Accuracy, Precision, Recall, F1-score, and Confusion Matrix
 
+### Dataset Samples
+
+![Dataset samples](images/dataset_samples.jpg)
+
 ## Results on the Original Dataset
 
 | Model | Accuracy |
@@ -19,6 +23,10 @@ Computer vision project comparing traditional machine learning and deep learning
 | **EfficientNet** | **97.00%** |
 
 EfficientNet achieved the best performance on the original dataset, while both deep learning models outperformed the traditional machine learning approaches.
+
+### EfficientNet Confusion Matrix
+
+![EfficientNet confusion matrix](images/efficientnet_confusion_matrix.jpg)
 
 ## Data Processing Experiment
 
